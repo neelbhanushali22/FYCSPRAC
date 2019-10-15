@@ -3,6 +3,6 @@
 void main()
 {
       clrscr();
-      printf(" hello world this is github ")
+      printf(" EDIT MY PAGE ")
       getch();
  }
